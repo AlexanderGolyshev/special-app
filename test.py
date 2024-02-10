@@ -1,1 +1,1 @@
-print('test')
+print([i for i in range(11)])
