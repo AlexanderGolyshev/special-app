@@ -9,3 +9,4 @@ def say_hi():
 
 say_hi()
 say_hi()
+say_hi()
